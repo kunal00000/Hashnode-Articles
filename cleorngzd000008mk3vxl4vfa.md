@@ -24,7 +24,7 @@ But Vite is like a smart assistant who knows that A needs C ahead of time. So, i
 
 Vite can also look ahead and see if any more puzzle pieces are needed, and it can fetch them all at once to make the website even faster.
 
-# \-&gt; Caching
+## \-&gt; Caching
 
 Vite saves things it has already made before so it can work faster. It knows when it needs to make things again and when it doesn't have to. This is called caching.
 
@@ -95,11 +95,11 @@ Create your plugins - [*read more about it here*](https://javascript.plainenglis
 
 ![](https://miro.medium.com/max/1098/1*DsNZVGwFukpmVIMNnnGEMw.png align="center")
 
-## Compatible Templates and Frameworks
+# Compatible Templates and Frameworks
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677608602291/cffeb62f-286a-49a3-ae3f-67833c949d12.png align="center")
 
-## Comparisons and Differentiators-
+# Comparisons and Differentiators-
 
 Vite.js is similar to other development tools such as Webpack and Rollup. However, Vite.js differentiates itself by leveraging modern browser features such as ES modules and native lazy loading to improve development speed and efficiency.
 
@@ -112,7 +112,7 @@ Vite.js is similar to other development tools such as Webpack and Rollup. Howeve
 * Webpack has a long configuration process, while Vite.js is simple to set up and use.
     
 
-## Tips -
+# Tips -
 
 ### \-&gt; Use `pnpm` To Further Enhance Performance
 
@@ -122,7 +122,7 @@ When used with Vite, `pnpm` can help enhance the speed and efficiency of the dev
 
 So, if you're looking to enhance your development process with Vite, using `pnpm` can be a great option to consider!
 
-## Use Cases-
+# Use Cases-
 
 1. Small to medium-sized applications: Vite.js is ideal for developing small to medium-sized applications where development speed and efficiency are critical.
     
@@ -131,7 +131,7 @@ So, if you're looking to enhance your development process with Vite, using `pnpm
 3. Large-scale applications: It can be used for large-scale applications, but it's important to consider the complexity of the project and whether Vite's development process is suitable.
     
 
-## Advantages of Vite.js-
+## Advantages Summary of Vite.js-
 
 * Fast and efficient development process.
     
