@@ -4,7 +4,7 @@ One of the most important steps in participating in programs like Google Summer 
 
 The journey of finding the perfect organization to contribute to during Google Summer of Code (GSOC) was an exciting yet daunting task.
 
-If you do not have some basic outline of what GSoC is, you can read my previous blog "[**Preparing For GSoC :&gt; Gathering Information**](https://kunalverma2468.hashnode.dev/preparing-for-gsoc-gathering-information)" to know how can you gather useful information about Google Summer of Code. **Believe me, you will get amazing and priceless responses when you will ask people who themselves have been on the journey.**
+If you do not have some basic outline of what GSoC is, you can read my previous blog "**Preparing** **For** GSoC:&gt; Gathering Information" to know how can you gather useful information about Google Summer of Code. **Believe me, you will get amazing and priceless responses when you will ask people who themselves have been on the journey.**
 
 My first step was to ask directly from previous year GSoCers in the same generic message which I sent them to know more about GSoC if they knew of any organizations aligning with my tech stack. Although I didn't get much help, I knew that finding the right organization was going to be a task that I would have to take on myself.
 
