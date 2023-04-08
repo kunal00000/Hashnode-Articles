@@ -1,7 +1,7 @@
 ---
 title: "Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"
 seoTitle: "Understand git rebase and Edit old commits using interactive rebase"
-seoDescription: "Learn about Git rebase and interactive rebase to edit past commits. Optimize your commit history for better code management."
+seoDescription: "Learn how to use Git rebase and Interactive rebase to edit past commits and optimize your commit history in this comprehensive guide"
 datePublished: Fri Apr 07 2023 20:16:03 GMT+0000 (Coordinated Universal Time)
 cuid: clg6zls5y000009l62hos1jy8
 slug: git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special
@@ -146,7 +146,8 @@ This will show an interactive window with 5 commits back from HEAD in reverse or
 
 > you may not be able to write anything in this window.  
 > **Step-1 -&gt;** click "**i"** to enter into insert mode.  
-> **Step-2-&gt;** after changing pick to reword click "**esc key**" to escape insert mode. **Step-3-&gt;** then to save and exit this window run "**:wq**" .
+> **Step-2-&gt;** after changing pick to reword click "**esc key**" to escape insert mode.  
+> **Step-3-&gt;** then to save and exit this window run "**:wq**" .
 
 **Step-3** -&gt; Modify the commit message in the text editor that opens automatically. Save and close the file. using **:wq .**
 
