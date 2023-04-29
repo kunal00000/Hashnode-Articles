@@ -1,13 +1,13 @@
 ---
 title: "Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"
 seoTitle: "Understand git rebase and Edit old commits using interactive rebase"
-seoDescription: "Learn how to use Git rebase and Interactive rebase to edit past commits and optimize your commit history in this comprehensive guide"
+seoDescription: "Learn how to use Git rebase and Interactive rebase to edit old commits and optimize your commit history in this comprehensive guide"
 datePublished: Fri Apr 07 2023 20:16:03 GMT+0000 (Coordinated Universal Time)
 cuid: clg6zls5y000009l62hos1jy8
 slug: git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680851751515/b90f3376-5cf0-46ea-8f68-bba303714e95.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680898041172/a85c6970-fa3d-4dca-8b7a-7ec9c4d1e761.png
-tags: opensource, git, developer-tools, git-rebase, cocodeblogs
+tags: opensource, version-control, git, git-rebase, cocodeblogs
 
 ---
 
