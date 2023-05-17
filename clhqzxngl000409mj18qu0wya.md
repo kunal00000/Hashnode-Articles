@@ -1,7 +1,7 @@
 ---
 title: "Improve Your Content Writing with Hashnode Ai..."
 seoTitle: "Enhance Content Writing: Hashnode Ai Boost"
-seoDescription: "Optimize Content Writing with Hashnode AI: Enhance blog quality, boost SEO, create engaging summaries, and adjust tone for better reader engagement"
+seoDescription: "Hashnode AI & Rix: Improve content with outlines, research, SEO titles, tone adjustment, error fixing, and code snippets"
 datePublished: Wed May 17 2023 01:00:22 GMT+0000 (Coordinated Universal Time)
 cuid: clhqzxngl000409mj18qu0wya
 slug: kunal-ai
