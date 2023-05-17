@@ -11,6 +11,8 @@ tags: writing, ai, wemakedevs, hashnode-ai
 
 ---
 
+### Challenges encountered during the writing process...
+
 As a writer, I work super hard to make my stuff fun and easy to read. But man, it's tough to get people's attention these days with everyone hooked on short-form content like YouTube shorts, Reels, and TikTok. Like, who's got time for long reads anymore? Nah, not me either, I totally get it, with all the quick content out there, it's no wonder our attention spans are getting shorter.
 
 Additionally, Writing itself can be a struggle. Coming up with ideas, organizing my thoughts, and being satisfied with the final result is always a challenge.
