@@ -1,5 +1,5 @@
 ---
-title: "Improve Your Content Writing with Hashnode Ai..."
+title: "Improve Your Content Writing with Hashnode AI..."
 seoTitle: "Enhance Content Writing: Hashnode Ai Boost"
 seoDescription: "Hashnode AI & Rix: Improve content with outlines, research, SEO titles, tone adjustment, error fixing, and code snippets"
 datePublished: Wed May 17 2023 01:00:22 GMT+0000 (Coordinated Universal Time)
@@ -33,7 +33,7 @@ It keeps me on track and ensured that my writing is well-structured.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684282713410/827f6a66-8442-4acd-ba01-c2a15be3c853.png align="center")
 
-### With Ai as Your Research Buddy
+### With AI as Your Research Buddy
 
 One of the remarkable things I discovered is that AI chatbot is incredibly useful for researching any topic. It has become my go-to resource when I want to enhance my knowledge and create more insightful posts.
 
