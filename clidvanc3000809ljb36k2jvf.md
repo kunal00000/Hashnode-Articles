@@ -6,6 +6,7 @@ datePublished: Fri Jun 02 2023 01:09:13 GMT+0000 (Coordinated Universal Time)
 cuid: clidvanc3000809ljb36k2jvf
 slug: docker-containerization
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685667586856/3f63de2d-fcc6-49a9-a73c-0b0ede59caf1.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686445197307/8f6f7280-0dbb-459c-b995-e2aed33f6469.webp
 tags: docker, development, deployment, devops, containers
 
 ---
