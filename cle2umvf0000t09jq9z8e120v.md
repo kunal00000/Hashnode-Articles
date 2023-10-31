@@ -1,4 +1,14 @@
-# Preparing For GSoC :> Search for an Organisation to Contribute
+---
+title: "Preparing For GSoC :> How to Find an Organisation to Contribute"
+seoTitle: "Finding an organisation to contribute to for GSoC"
+seoDescription: "Choosing an organisation is the most important and working decision for GSoC. So, in this blog you will see how I found organisation to contribute to."
+datePublished: Mon Feb 13 2023 13:26:26 GMT+0000 (Coordinated Universal Time)
+cuid: cle2umvf0000t09jq9z8e120v
+slug: preparing-for-gsoc-how-to-find-an-organisation-to-contribute
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674773954685/d312833e-d9a5-49ce-a18c-ba8ebf030d63.webp
+tags: gsoc, web-development, opensource, wemakedevs, cocodeblogs
+
+---
 
 One of the most important steps in participating in programs like Google Summer of Code (GSOC) is finding the right open-source organization to contribute to. But with so many options available, it can be overwhelming to know where to start. In this blog post, we'll explore the process of finding the perfect organization to suit your interests and skill set.
 
